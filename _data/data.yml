@@ -92,7 +92,8 @@ experiences:
        -	Developed a database called GTRAP providing information from gene level to protein level. (Retired - https://g-trap.000webhostapp.com)
 
 projects:
-    title: Variant Analysis for Rare Diseases
+    title: PROJECTS
+    subtitle: Variant Analysis for Rare Diseases
     intro: >
       I work in a small team of 6 analysts (which includes our PI, Dr. EA Worthey) that comb through molecular data derived from DNA or RNA sequencing. The goal is to identify variations that could lead to specific symptoms or diseases seen in each patient. For each case two analysts are assigned. With the aid of our in-house developed software and other resources, I identify suspect variation(s), gather evidence on why that variation would lead to a specific symptom or disease, and subsequently present my findings to the entire team. In turn, each variation is judged by the team whether it should be reported to the doctor, collaborator, and/or the patient. Below is a brief description of some of the projects I work on.
     assignments:
