@@ -7,46 +7,46 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Tarun Mamidi
+    tagline: Doctoral Candidate
+    avatar: Tarun_Mamidi.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
+    email: tmamidi@uab.edu
+    phone: 317 3332 66603
+    timezone: America/Central standard Timezone
+    citizenship: Indian
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    linkedin: tkmamidi
+    xing:
+    github: tkmamidi
     telegram: # add your nickname without '@' sign
-    gitlab:
+    gitlab: tkmamidi
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@TarunMamidi7'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: Telugu
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Hindi
+        level: Native
 
     interests:
-      - item: Climbing
+      - item: Cricket
         link:
 
-      - item: Snowboarding
+      - item: Binge-watching
         link:
 
-      - item: Cooking
+      - item: Riding motorcycle
         link:
 
 career-profile:
@@ -59,9 +59,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Bioinformatics
+      university: Indiana University Purdue University Indianapolis
+      time: 2015 - 2017
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -70,9 +70,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in BioTechnology
+      university: Gokaraju Rangaraju Institute of Engineering and Technology
+      time: 2011 - 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -82,9 +82,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: PhD Researcher
+      time: 2019 - Present
+      company: The University of Alabama at Birmingham, AL
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -97,9 +97,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Bioinformatics Analyst
+      time: 2017 - 2019
+      company: LSU Health Sciences Center, LA
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -108,9 +108,9 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Graduate Research Assistant
+      time: 2015 - 2017
+      company: School of Informatics and Computing, IUPUI, IN
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -172,22 +172,19 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+      - name: R
+        level: 70%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 50%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: AI/ML
+        level: 75%
 
-      - name: Sketch & Photoshop
+      - name: Databases
         level: 60%
 
 footer: >
