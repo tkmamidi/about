@@ -13,10 +13,10 @@ sidebar:
 
     # Sidebar links
     email: tmamidi@uab.edu
-    phone: 317 3332 66603
+    phone: 317 332 6603
     timezone: America/Central standard Timezone
     citizenship: Indian
-    website: blog.webjeda.com #do not add http://
+    website:  #do not add http://
     linkedin: tkmamidi
     xing:
     github: tkmamidi
@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf:
 
     languages:
       - idiom: Telugu
