@@ -52,121 +52,86 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a fourth-year doctoral candidate at UAB focused on applying computational biology and data science methods to the study of human disease. I am driven to apply myself to helping to understanding the molecular basis of human diseases and passionate about a career where I can significantly contribute to science.
 education:
     - degree: MSc in Bioinformatics
       university: Indiana University Purdue University Indianapolis
       time: 2015 - 2017
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      details:
+
     - degree: BSc in BioTechnology
       university: Gokaraju Rangaraju Institute of Engineering and Technology
       time: 2011 - 2015
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      details:
 experiences:
     - role: PhD Researcher
       time: 2019 - Present
       company: The University of Alabama at Birmingham, AL
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+       -	Lab of Dr. Worthey
+       -	Analysis of molecular variation on a case by case basis to identify causal variants in patients with rare genetic diseases
+       -	Development of Machine Learning models to more efficiently and accurately diagnose patients with rare, undiagnosed, or misdiagnosed diseases.
+
     - role: Bioinformatics Analyst
       time: 2017 - 2019
       company: LSU Health Sciences Center, LA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+       -	Lab of Dr. Chindo Hicks
+       -	Development of pipelines for next generation sequencing Analysis.
+       -	Development of a shiny application “BIG-DE” for Differential Gene Expression Analysis. (https://tarunmamidi.shinyapps.io/lsuhsc_big_de/)
+       -	Collaborative analysis to identify copy number variations in patient cohorts with prostate and lung cancers.
+       -	Development of Machine Learning models to classify prostate cancer patients as Indolent and Aggressive by integrating mutation, methylation and transcriptome data.
+
     - role: Graduate Research Assistant
       time: 2015 - 2017
       company: School of Informatics and Computing, IUPUI, IN
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+       -	Lab of Dr. Xiaowen Liu.
+       -	Analysis of large amounts of Mass spectrometric data using Trans Proteomic pipeline.
+       -	Collaborated in development of a tool called TopPIC to identify and characterize proteoforms at the whole proteome level.
+       -	Developed a database called GTRAP providing information from gene level to protein level. (Retired - https://g-trap.000webhostapp.com)
+
 projects:
-    title: Projects
+    title: Variant Analysis for Rare Diseases
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I work in a small team of 6 analysts (which includes our PI, Dr. EA Worthey) that comb through molecular data derived from DNA or RNA sequencing. The goal is to identify variations that could lead to specific symptoms or diseases seen in each patient. For each case two analysts are assigned. With the aid of our in-house developed software and other resources, I identify suspect variation(s), gather evidence on why that variation would lead to a specific symptom or disease, and subsequently present my findings to the entire team. In turn, each variation is judged by the team whether it should be reported to the doctor, collaborator, and/or the patient. Below is a brief description of some of the projects I work on.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Cystic Fibrosis
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "CF patients, even those within a family with the same primary CFTR variants causing their CF, often have widely varying courses of disease. Our study aims to identify additional molecular variation that modifies the course of CF to account for these differences. Our ultimate goal may allow treating physicians to use each patient’s molecular data to predict the best course of therapy and to avoid CF complications."
 
-      - title: Tempo
+      - title: Prader-Willi Syndrome
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "In collaboration with the patient support and advocacy group, the Foundation for Prader-Willi Research, our team is using whole genome sequence and RNA-Seq data to find molecular causes for the wide differences in symptoms that PWS patients suffer daily. Molecular findings from a study of this type can lead to new therapies for treatment of the many symptoms experienced by these patients (often through drug repurposing). Discovery of new effective treatments can then be prescribed in an individualized therapy to increase the quality of life for these profoundly affected patients and their families."
 
-      - title: Atom
+      - title: Pediatric Cancer Outcomes
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Anthracycline-based cancer therapies are highly effect in curing many childhood cancers. Unfortunately, treatment with these cardiotoxic drugs has been known to cause life-threatening heart disease in a subset of the children. Statistically, ~50% of those who develop heart disease will die within 5 years. Our analysis comb through the genetic data of both cases and matched controls identifying both rare variation that occurs in single patients, and more common molecular variation that occurs at a statistically increased frequency in those with heart disease. The goals are to identify before initiating their cancer treatment children at risk and methods to halt development of heart disease."
 
-      - title: Delta
+      - title: Hepatic Cellular Carcinoma
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Identification of variants with links to cancer/HCC/liver disease to aid in increased understanding of the disease to improve patient’s outcomes."
+
+      - title: Neuromuscular disease
+        link: "#"
+        tagline: "Identification of causal variation in patients with several distinct forms of neuromuscular disease which leads to muscle degeneration."
+
+      - title: Undiagnosed Diseases Network
+        link: "#"
+        tagline: "Working with clinicians from many institutions and specialties to provide definitive molecular diagnoses for patients with rare, misdiagnosed or undiagnosed diseases by extracting knowledge from associated ‘omic data."
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      I had authored ten peer reviewed papers so far including five first author papers ranging from integrative
+      multi-omic analysis in search for biomarkers in Prostate, Breast cancers to developing predictive risk models for
+      COVID-19 infection.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: ORCID
+        link: "https://orcid.org/0000-0002-9484-257X"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Google	Scholar
+        link: "https://scholar.google.com/citations?hl=en&user=2rzGJ7QAAAAJ"
 
 skills:
     title: Skills &amp; Proficiency
